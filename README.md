@@ -7,3 +7,4 @@ FRC sensor demo
 4) select directory, project name and set team number to 115
 5) generate project
 6) go to src/java/robot.java and write code
+7) code is in master branch
